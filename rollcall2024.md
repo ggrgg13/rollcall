@@ -11,6 +11,7 @@ Name and GitHub username/profile
 * Oliver Baltzer - [ObaltzerS](https://github.com/ObaltzerS)
 * Clara Bates - [clarabates](https://github.com/clarabates)
 * Samuel Boerner - [boerners-whit](https://github.com/boerners-whit)
+* Steven Lin - [ggrgg13](https://github.com/ggrgg13)
 * Jacob Burrill - [Jacob-Burrill](https://github.com/Jacob-Burrill)
 * Janet Davis - [ProfJanetDavis](https://github.com/ProfJanetDavis)
 * Grant Didway  - [didwayg](https://github.com/didwayg)
